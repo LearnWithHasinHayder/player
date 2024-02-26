@@ -1,0 +1,20 @@
+:root {
+  --sidebar-width: 28rem;
+  --nav-height: 3.5rem;
+}
+
+.sidebar::-webkit-scrollbar {
+  width: 6px;
+}
+
+.sidebar::-webkit-scrollbar-thumb {
+  background-color: #0a91b2;
+}
+
+.course-player::-webkit-scrollbar {
+  width: 10px;
+}
+
+.course-player::-webkit-scrollbar-thumb {
+  background-color: #0a91b2;
+}
